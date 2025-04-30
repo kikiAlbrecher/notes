@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-e3150": {
+      "hosting": {
+        "firebase": [
+          "danotes-e3150"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-e3150"
+  }
+}
